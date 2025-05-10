@@ -1,4 +1,5 @@
 // data_transform
 
-ejecutar regla_1: convertir los valores nullos ('') en texto ('Null')
+ejecutar regla_1: convertir los valores nullos ('') en texto ('Null-0')
 ejecutar regla_2: Eliminar duplicidad de registros
+ejecutar regla_3: Estandarizar formato de documento de identidad
