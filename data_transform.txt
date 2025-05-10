@@ -3,3 +3,4 @@
 ejecutar regla_1: convertir los valores nullos ('') en texto ('Null-0')
 ejecutar regla_2: Eliminar duplicidad de registros
 ejecutar regla_3: Estandarizar formato de documento de identidad
+ejecutar regla_4: reemplazar fecha de compra de servicio por 2025
